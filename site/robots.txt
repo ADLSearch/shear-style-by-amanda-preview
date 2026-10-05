@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /qa/
+
+Sitemap: https://www.shearstylebyamanda.com/sitemap.xml

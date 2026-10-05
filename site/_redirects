@@ -1,0 +1,5 @@
+# Short links (302 so the targets can change later)
+/book         https://mysite.vagaro.com/shearstylebyamanda/book-now   302
+/gift-cards   https://mysite.vagaro.com/shearstylebyamanda/gift-certificates   302
+/contact      /about/#contact   301
+# VERIFY: add 301s for any old Squarespace URLs that have backlinks (check Search Console before cut-over).
